@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akhil2665
-- 👀 I’m interested in react development
+- 👀 I’m interested in frontend development and ML
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me akhileee.16@gmail.com
