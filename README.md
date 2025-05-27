@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akhil2665
 - 👀 I’m interested in frontend development and ML
-- 🌱 I’m currently learning react
+- 🌱 I’m a Fullstock developer
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me akhileee.16@gmail.com
 - ⚡ Fun fact: I am excited to learn new things.
